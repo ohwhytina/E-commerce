@@ -15,7 +15,7 @@ A backend showing ability to get all categories, products, and tags and being ab
 ## Installation
 Clone or download files. Create 'env' file and add your username, password, and database name. Source db/schema.sql in your mysql. 'npm run seed' & 'npm run start'
 
-[!Demo](https://github.com/ohwhytina/E-commerce/blob/main/img/Demogif.gif?raw=true)
+![Demo](https://github.com/ohwhytina/E-commerce/blob/main/img/Demogif.gif?raw=true)
 ## Usage
 npm install dotenv express mysql2 sequelize
 
